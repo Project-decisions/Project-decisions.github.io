@@ -1,4 +1,14 @@
 # About
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+We focus on making better decisions about projects. 
+
+We do this in two ways:
+
+1. Using *Reinforcement learning* to make decisions that get better as the project progresses
+
+2. Providing sufficient *project analytics* to describe the project.
+
+Projects can be stand-alone, programmes, or grouped into portfolios. 
+
+
 
